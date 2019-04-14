@@ -7,7 +7,8 @@ Source code for the micro course in spanish - Aprende las bases de react en tan 
 2. Ingresar a la carpeta react-basics
 3. Ingresar a cualquiera de las carpetas con el nombre dia-uno, dia-dos, dia-tres, dia-cuatro y dia-cinco de acuerdo a la lección del dia
 4. Ingresar a la carpeta con el video correspondiente, por ejemplo todo-app-video-uno o todo-app-video-dos
-5. Correr el comando npm install para instalar las dependencias
+5. Correr el comando *npm install* para instalar las dependencias
+6. Correr el comando *npm start* para lanzar la aplicacion en su navegador local en la dirección http://localhost:3000
 
 
 
