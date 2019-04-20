@@ -139,7 +139,7 @@ class Button extends Component {
 }
 
 const largeColumn = {
-  widht: '40%'
+  width: '40%'
 }
 
 const midColumn = {
@@ -147,7 +147,7 @@ const midColumn = {
 }
 
 const smallColumn = {
-  widht: '10%'
+  width: '10%'
 }
 
 export default App;
