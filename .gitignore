@@ -2,6 +2,16 @@
 
 # dependencies
 /node_modules
+dia-uno/todo-app-video-uno/node_modules
+dia-uno/todo-app-video-dos/node_modules
+dia-dos/todo-app-video-uno/node_modules
+dia-dos/todo-app-video-dos/node_modules
+dia-tres/todo-app-video-uno/node_modules
+dia-tres/todo-app-video-dos/node_modules
+dia-cuatro/todo-app-video-uno/node_modules
+dia-cuatro/todo-app-video-dos/node_modules
+dia-cinco/todo-app-video-dos/node_modules
+dia-cinco/todo-app-video-uno/node_modules
 /.pnp
 .pnp.js
 
