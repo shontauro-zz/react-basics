@@ -2,9 +2,7 @@
 
 # dependencies
 /node_modules
-dia-uno/todo-app-video-uno/node_modules
-dia-uno/todo-app-video-dos/node_modules
-dia-dos/todo-app-video-uno/node_modules
+dia-uno/todo-app/node_modules
 dia-dos/todo-app-video-dos/node_modules
 dia-tres/todo-app-video-uno/node_modules
 dia-tres/todo-app-video-dos/node_modules
